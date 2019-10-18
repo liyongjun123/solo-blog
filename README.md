@@ -10,6 +10,8 @@ liyongjun 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.lyjiot.cn/my-github-repos)
+* [linux-cmd](http://www.lyjiot.cn/articles/2019/10/17/1571291962982.html)
 * [世界，你好！](http://www.lyjiot.cn/hello-solo)
 
 
